@@ -1,3 +1,19 @@
 print("hello sharks, hello gremlins")
 # ⭐⭐⭐ Simulate a deck of cards and draw 5 random cards
 #it's not letting me take a pull request, help D:
+print("we have a deck of cards. There is the normal cards. The 4 houses, Spades, Hearts, Diamonds, and clubs")
+cards = {
+"King": ['Diamond', 'spades', 'hearts', 'clubs'],
+"Jack": ['Diamond', 'spades', 'hearts', 'clubs'],
+"Queen": ['Diamond', 'spades', 'hearts', 'clubs'],
+"10": ['Diamond', 'spades', 'hearts', 'clubs'],
+"9": ['Diamond', 'spades', 'hearts', 'clubs'],
+"8": ['Diamond', 'spades', 'hearts', 'clubs'],
+"7": ['Diamond', 'spades', 'hearts', 'clubs'],
+"6": ['Diamond', 'spades', 'hearts', 'clubs'],
+"5": ['Diamond', 'spades', 'hearts', 'clubs'],
+"4": ['Diamond', 'spades', 'hearts', 'clubs'],
+"3": ['Diamond', 'spades', 'hearts', 'clubs'],
+"2": ['Diamond', 'spades', 'hearts', 'clubs'],
+"Ace": ['Diamond', 'spades', 'hearts', 'clubs']
+}

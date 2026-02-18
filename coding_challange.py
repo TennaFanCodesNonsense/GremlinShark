@@ -1,0 +1,1 @@
+print("we have a deck of cards. There is the normal cards. The 4 houses, Spades, Hearts, Diamonds, and clubs")

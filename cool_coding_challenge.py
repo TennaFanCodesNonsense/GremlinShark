@@ -17,4 +17,9 @@ cards = {
 #it's not letting me take a pull request, help D:
 print("we have a deck of cards. There is the normal cards. The 4 houses, Spades, Hearts, Diamonds, and clubs")
 #
-print(random.choice{cards})
+random_rank = random.choice(list(cards.keys()))
+# cards == (cards.keys(cards_drawn))
+random_suit = random.choice(cards[random_rank])
+# while cards[cards_drawn] == 0:
+print(f"You drew: {random_rank} of {random_suit}")
+

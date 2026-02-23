@@ -22,4 +22,4 @@ random_rank = random.choice(list(cards.keys()))
 random_suit = random.choice(cards[random_rank])
 # while cards[cards_drawn] == 0:
 print(f"You drew: {random_rank} of {random_suit}")
-
+#We need to make it do this 4 more times and then we are done with this coding challange. 

@@ -15,7 +15,7 @@ cards = {
     "2":  ['Diamond', 'spades', 'hearts', 'clubs',],
     "Ace":  ['Diamond', 'spades', 'hearts', 'clubs',]}
 #it's not letting me take a pull request, help D:
-print("we have a deck of cards. There is the normal cards. The 4 houses, Spades, Hearts, Diamonds, and clubs")
+print("we have a deck of cards. They are normal cards, King-Ace, the 4 houses, Spades, Hearts, Diamonds, and clubs")
 #
 random_rank = random.choice(list(cards.keys()))
 # cards == (cards.keys(cards_drawn))
